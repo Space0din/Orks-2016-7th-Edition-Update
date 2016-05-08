@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="1.15" name="Codex: Orks 7e Update" indexUrl="https://www.dropbox.com/s/stvn6erjb6uik7r/index.bsi?dl=0" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="1.15" name="Codex: Orks 7e Update" indexUrl="https://www.dropbox.com/s/14degcc5mt83huy/index.bsi?dl=0" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer40K.gstz" dataType="gamesystem" dataId="e1ebd931-a209-3ce4-87b4-d9918d25530b" dataName="Warhammer 40,000 7th Edition" dataBattleScribeVersion="1.15" dataRevision="53"/>
-    <dataIndexEntry filePath="Orks (2016) 7th Ed. Update.catz" dataType="catalogue" dataId="9d53-3178-b149-cbea" dataName="Codex: Orks (2016) 7th Ed. Update" dataBattleScribeVersion="1.15" dataRevision="8"/>
+    <dataIndexEntry filePath="Orks - Homebrew Codex - 7th Ed. Update (2016).catz" dataType="catalogue" dataId="c90c-2f72-6205-3cbc" dataName="Orks - Homebrew Codex - 7th Ed. Update (2016)" dataBattleScribeVersion="1.15" dataRevision="17"/>
   </dataIndexEntries>
 </dataIndex>
